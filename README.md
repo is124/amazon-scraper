@@ -1,4 +1,4 @@
-# birbal-scraper
+# amazon-scraper
 
 To operate:
 
